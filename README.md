@@ -6,3 +6,7 @@ I was frustrated by the lack of good one-page tarot spread journal templates ava
 Including the exported JSON (for reimporting to NoTeTo) and the final PNG.
 
 Hope someone else finds this useful.
+
+## what it looks like
+
+![Tarot journal template included in this repo](Tarot.png)
